@@ -8,5 +8,6 @@
 <p>webhook test 33.. war file auto-deploy to tomcat  server............</p>
 <p>webhook test 44.. war file auto-deploy to tomcat  server............</p>
 <p>webhook test 555.. war자동빌드/ WAS서버에 war file auto-deploy............</p>
+<p>WAR file Auto CD Test 2021.11.23 1st.....</p>
 </body>
 </html>
